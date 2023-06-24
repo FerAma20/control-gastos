@@ -1,5 +1,5 @@
 import { useState } from "react"
-import Header from "./components/header"
+import Header from "./components/Header"
 import Modal from "./components/Modal"
 import ListadoGastos from "./components/ListadoGastos"
 import {generarId} from './helpers/index'
